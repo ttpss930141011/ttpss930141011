@@ -4,12 +4,12 @@ on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
     - cron: "0 0 * * *" # runs at every 12AM UTC
-  push:
-    branches:
-      - main
-    paths: 
-      - README.md
-      - .github/workflows/*
+#   push:
+#     branches:
+#       - main
+#     paths: 
+#       - README.md
+#       - .github/workflows/*
 
 jobs:
   update-readme:
