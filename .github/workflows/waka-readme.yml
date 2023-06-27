@@ -23,7 +23,3 @@ jobs:
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #REPOSITORY: <gh_username/gh_username>
-      - uses: ttpss930141011/top-languages-readme@master
-        with:
-          LIST_COUNT: 5
-          SHOW_TOTAL: true
