@@ -1,16 +1,14 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Hi there! I'm Justin Xiao
 <p align="center">A passionate junior full-stack developer from Taiwan.  </p>
-<p align="center">I prioritize exploring broadly before going deep and believe that <b>nothing is useless</b>.   </p>
+<p align="center">I prioritize exploring broadly before going deep and believe that <b>nothing is useless</b>.</p>
 
-
-
+---
 ### About me
 - 👀 MBTI - [INTP](https://www.16personalities.com/intp-personality)
 - 👨‍💻 Coder **/** 🤿 Scuba Instructor **/** 🥁 Drummer
 - 🏆 Developing my product's MVP (still private).
 - 💧 [My first open-source project](https://github.com/Game-as-a-Service/Game-Lobby-Web) that I am involved in.
 
----
 ### Learning Status
 - ‍💻 Languages - Next.js **/** TypeScript **/** Golang
 - 🧠 Skills and Concepts - Scrum **/** OOAD **/** OOP **/** DDD (Domain-Driven Design)
