@@ -38,12 +38,10 @@ Sunday                   204 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-MDX                      4 mins              ████████████████████████░   95.28 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -59,5 +57,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2023 00:18:14 UTC
+ Last Updated on 04/12/2023 00:17:48 UTC
 <!--END_SECTION:waka-->
