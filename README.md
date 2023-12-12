@@ -38,10 +38,10 @@ Sunday                   194 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -57,5 +57,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2023 00:17:34 UTC
+ Last Updated on 12/12/2023 00:17:15 UTC
 <!--END_SECTION:waka-->
