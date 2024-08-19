@@ -38,10 +38,11 @@ Sunday                   369 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   14 mins             ███████████████████████░░   91.08 % 
+GitIgnore file           1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -57,5 +58,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2024 00:22:12 UTC
+ Last Updated on 19/08/2024 00:20:41 UTC
 <!--END_SECTION:waka-->
